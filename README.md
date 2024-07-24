@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 智能轮椅导航定位数据集
 
 ## 交龙智能轮椅数据集
@@ -69,7 +70,7 @@ ltdataset
 ```
 
 ## 如何下载
-**我们建议使用以下链接下载本数据集**
+**官方链接，由于服务器正在维护，部分序列可能下载失败，我们建议使用百度网盘下载**
 
 
 |    采集序号     |           采集日期           | 采集时间 | 采集地点  |  采集特点  |                                                  下载链接                                                  
@@ -93,10 +94,10 @@ ltdataset
 交大云 https://jbox.sjtu.edu.cn/l/R1eeEG
 ```
 
-**百度云下载链接（尚未完成）**
+**百度网盘下载链接（建议使用）**
 
 ```
-百度云 尚未完成
+百度网盘 https://pan.baidu.com/s/1WbRVq-gb83B7m-O3aMo-fw?pwd=6i24
 ```
 
 **Google Drive 下载链接（尚未完成）**
@@ -104,3 +105,6 @@ ltdataset
 ```
 Google Drive link： 尚未完成
 ```
+=======
+# LTdataset
+>>>>>>> 6ab5c1d (Initial commit)
