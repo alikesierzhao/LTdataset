@@ -50,7 +50,7 @@
 
 
 ## 数据集文件结构
-更多细节请参考([readme.pdf](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/readme.tar.gz))
+更多细节请参考([readme.pdf](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/readme.tar.gz))
 ```
 ltdataset
 |---- readme.pdf
@@ -74,17 +74,17 @@ ltdataset
 
 |    采集序号     |           采集日期           | 采集时间 | 采集地点  |  采集特点  |                                                  下载链接                                                  
 |:-----------:|:------------------------:|:----:|:-----:|:------:|:------------------------------------------------------------------------------------------------------:|
-| Sequence 1  |        2021-08-27        |  夜晚  |  室外   |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-08-27-night.tar.gz)   |
-| Sequence 2  |        2021-08-28        |  中午  | 室内、室外 | 室内外穿梭  |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-08-28-midday.tar.gz)   |
-| Sequence 3  |        2021-09-01        |  中午  | 室内、室外 | 室内外穿梭  |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-09-01-midday.tar.gz)   |
-| Sequence 4  |        2021-10-09        |  中午  |  室外   |  高人流   |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-10-09-midday.tar.gz)   |
-| Sequence 5  |        2021-10-10        |  夜晚  | 室内、室外 |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-10-10-night.tar.gz)   |
-| Sequence 6  |        2021-11-13        |  下午  |  室外   | 坡面倾斜场景 | [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-11-13-afternoon.tar.gz) |
-| Sequence 7  |        2021-11-26        |  中午  |  室外   | 坡面倾斜场景 |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-11-26-midday.tar.gz)   |
-| Sequence 8  |        2021-12-02        |  黄昏  |  室外   |  光照变化  |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-12-02-dusk.tar.gz)    |
-| Sequence 9  |        2021-12-09        |  中午  |  室外   | 小雨潮湿地面 |      [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-12-09.tar.gz)      |
-| Sequence 10 |        2021-12-13        |  夜晚  |  室外   |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/2021-12-13-dusk.tar.gz)    |
-|   所有(推荐）    | 2021-08-27 -- 2021-12-13 | 全天候  | 室内、室外 |  挑战场景  |         [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_slam/all.tar.gz)          |
+| Sequence 1  |        2021-08-27        |  夜晚  |  室外   |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-08-27-night.tar.gz)   |
+| Sequence 2  |        2021-08-28        |  中午  | 室内、室外 | 室内外穿梭  |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-08-28-midday.tar.gz)   |
+| Sequence 3  |        2021-09-01        |  中午  | 室内、室外 | 室内外穿梭  |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-09-01-midday.tar.gz)   |
+| Sequence 4  |        2021-10-09        |  中午  |  室外   |  高人流   |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-10-09-midday.tar.gz)   |
+| Sequence 5  |        2021-10-10        |  夜晚  | 室内、室外 |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-10-10-night.tar.gz)   |
+| Sequence 6  |        2021-11-13        |  下午  |  室外   | 坡面倾斜场景 | [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-11-13-afternoon.tar.gz) |
+| Sequence 7  |        2021-11-26        |  中午  |  室外   | 坡面倾斜场景 |  [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-11-26-midday.tar.gz)   |
+| Sequence 8  |        2021-12-02        |  黄昏  |  室外   |  光照变化  |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-12-02-dusk.tar.gz)    |
+| Sequence 9  |        2021-12-09        |  中午  |  室外   | 小雨潮湿地面 |      [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-12-09.tar.gz)      |
+| Sequence 10 |        2021-12-13        |  夜晚  |  室外   |  弱光照   |   [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/2021-12-13-dusk.tar.gz)    |
+|   所有(推荐）    | 2021-08-27 -- 2021-12-13 | 全天候  | 室内、室外 |  挑战场景  |         [download](https://robotics.sjtu.edu.cn/upload/file/dataset/dataset/sjtu_dataset/all.tar.gz)          |
 
 
 **交大云下载链接（支持上海交通大学内网访问）**
