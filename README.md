@@ -105,6 +105,3 @@ ltdataset
 ```
 Google Drive link： 尚未完成
 ```
-=======
-# LTdataset
->>>>>>> 6ab5c1d (Initial commit)
